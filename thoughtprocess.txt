@@ -1,0 +1,22 @@
+Workflow Order Summary Card
+1. background
+2. Summary Component
+
+Background 
+a. SVG
+- desktop and mobile svg: thus media query is required
+b. Defualt Bg Color
+- One bg color
+
+
+Summary Component 
+
+the width is roughly 450px but looks like 320px on devices below 375px.
+
+a. image Component: only border radius on the top left and right is required
+
+b. summary Component: 
+1. One font family
+2. heading and duration bold but different font-sizes
+3. parag
+
