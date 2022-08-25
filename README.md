@@ -25,8 +25,8 @@ Below are the screenshots to my solution
 - hover state
   ![](./images/hover_state.png)
 
--desktop version
-![](./images/screen_1440.png)
+- desktop version
+  ![](./images/screen_1440.png)
 
 - mobile version
   ![](./images/screen_375.png)
