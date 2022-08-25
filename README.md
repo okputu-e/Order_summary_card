@@ -73,12 +73,6 @@ body::before {
   z-index: -100;
   overflow: hidden;
 }
-
-@media (min-width: 1441px) {
-  body::before {
-    background-image: none;
-  }
-}
 ```
 
 ## Author
